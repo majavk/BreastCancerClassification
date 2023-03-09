@@ -1,11 +1,11 @@
 # BreastCancerClassification
 
 This Dataset is taken from:
-https://www.kaggle.com/competitions/rsna-breast-cancer-detection/data
+https://www.kaggle.com/competitions/rsna-breast-cancer-detection/data.
 
 The Dataset contains radiographic breast images of female subjects.
 
-Files are mammograms, in dicom format.There are usually but not always 4 images per patient. Note that many of the images use the jpeg 2000 format which may you may need special libraries to load.
+Files are mammograms, in dicom format. There are usually but not always 4 images per patient. Note that many of the images use the jpeg 2000 format which may you may need special libraries to load.
 
 The metadata contains the following features:
 
